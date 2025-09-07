@@ -29,7 +29,7 @@ A Discord bot built with Node.js and JavaScript for text-based chat and AI-power
 
 3. **Set up environment variables**
 
-   Create a `.env` file in the project root (or copy from `.env.example` if provided) and fill in:
+   Create a `.env` file in the project root 
    ```
    DISCORD_BOT_TOKEN=your_discord_bot_token
    GEMINI_API_KEY=your_gemini_api_key
